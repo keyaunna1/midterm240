@@ -1,0 +1,61 @@
+
+body { 
+    background-color:orange;
+}
+
+
+
+
+
+
+
+h1 {
+  color: orange;
+  text-align: center ;
+    font-size: 50px;
+    font-family: "ZCOOL XiaoWei";
+    letter-spacing: 5px;
+}
+
+header {
+  background-color: darkblue;
+  padding: 0px;
+  height: 160px;
+  margin: 10px;
+  position:relative;
+}
+    
+header a{
+    color: orange;
+}  
+
+
+
+.container {
+    display:inline;
+    justify-content: space-between;
+}
+
+.column { 
+    color: darkblue;
+}
+
+
+.searchbox {
+    position: relative;
+    right: 0px;
+    bottom: 52px;
+   font-size: 120px;
+}
+
+ul{
+    font-family: "ZCOOL XiaoWei";
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-family:"ZCOOL XiaoWei";
+    letter-spacing: 2px
+}
+
+ 
